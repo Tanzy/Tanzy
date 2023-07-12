@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Who am I
-Hello, I’m Ken and I’m the _Software Craftsperson_ for [Codurance](https://www.codurance.com).
+Hello, I’m Ken.
 
 ## Background
 I've been in software development for over 20 years, taking on various roles. My career started programming using Visual Basic 3, but for the last 10 years it's been mainly C#.
